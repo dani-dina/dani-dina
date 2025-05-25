@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My name is Daniel and I'm a Full stack web developer & Ethical H*cker</h1>
+<h1 align="left">My name is Daniel and I'm a Full stack web developer & Ethical H*cker </h1>
 
 ###
 

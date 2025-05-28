@@ -7,6 +7,11 @@
 ###
 
 <h2 align="left">About me</h2>
+###
+
+<p align="left">🧠 Existential coder </p>
+
+###
 
 ###
 
